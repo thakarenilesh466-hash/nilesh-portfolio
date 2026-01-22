@@ -39,5 +39,5 @@ I help businesses organize data, create clear MIS reports, and build basic Power
 ---
 
 ## 📫 Contact
-- 📧 Email: yourmail@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/yourprofile
+- 📧 Email: thakarenilesh466@gmail.com 
+- 🔗 LinkedIn: https://www.linkedin.com/in/nilesh-thakare-4447ba361
