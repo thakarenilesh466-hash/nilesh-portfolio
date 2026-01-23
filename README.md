@@ -11,7 +11,7 @@ I help businesses organize data, create clear MIS reports, and build basic Power
 - Advanced Excel (VLOOKUP, XLOOKUP, Pivot Tables, Charts)
 - Data Cleaning & Reporting
 - Power BI (Basic Dashboards)
-- SQL (Beginner)
+- SQL (Intermediate – Business Analysis)
 
 ---
 
@@ -35,6 +35,18 @@ I help businesses organize data, create clear MIS reports, and build basic Power
 - Interactive dashboard for sales insights
 - KPIs: Revenue, Region, Product  
 📎 Screenshot / PDF here
+
+---
+
+
+### 📊 Superstore Sales Analysis | Business Insights (SQL)
+
+- SQL-based analysis of Superstore sales data to derive actionable business insights
+- Focus on profit drivers, loss-making sub-categories, and regional performance
+- Used SQL concepts: GROUP BY, JOINs, aggregations, date functions
+
+🔗 GitHub Repo: https://github.com/yourusername/superstore-sales-analysis-sql  
+🔗 Kaggle Project: https://www.kaggle.com/code/nileshsantoshthakare/superstore-sales-analysis-business-insights
 
 ---
 
