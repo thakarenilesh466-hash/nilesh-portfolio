@@ -38,15 +38,17 @@ I help businesses organize data, create clear MIS reports, and build basic Power
 
 ---
 
+#### 4️⃣ Superstore Sales Analysis | Business Insights (SQL)
 
-### 📊 Superstore Sales Analysis | Business Insights (SQL)
+- SQL-based analysis of Superstore sales data to derive actionable business insights  
+- Focus on profit drivers, loss-making sub-categories, and regional performance  
+- Used SQL concepts: GROUP BY, JOINs, aggregations, date functions  
 
-- SQL-based analysis of Superstore sales data to derive actionable business insights
-- Focus on profit drivers, loss-making sub-categories, and regional performance
-- Used SQL concepts: GROUP BY, JOINs, aggregations, date functions
+🔗 **GitHub Repo:**  
+https://github.com/thakarenilesh466-hash/superstore-sales-analysis-sql  
 
-🔗 GitHub Repo: https://github.com/thakarenilesh466-hash/superstore-sales-analysis-sql 
-🔗 Kaggle Project: https://www.kaggle.com/code/nileshsantoshthakare/superstore-sales-analysis-business-insights
+🔗 **Kaggle Project:**  
+https://www.kaggle.com/code/nileshsantoshthakare/superstore-sales-analysis-business-insights
 
 ---
 
