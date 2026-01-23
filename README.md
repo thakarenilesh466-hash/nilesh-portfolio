@@ -45,7 +45,7 @@ I help businesses organize data, create clear MIS reports, and build basic Power
 - Focus on profit drivers, loss-making sub-categories, and regional performance
 - Used SQL concepts: GROUP BY, JOINs, aggregations, date functions
 
-🔗 GitHub Repo: https://github.com/yourusername/superstore-sales-analysis-sql  
+🔗 GitHub Repo: https://github.com/thakarenilesh466-hash/superstore-sales-analysis-sql 
 🔗 Kaggle Project: https://www.kaggle.com/code/nileshsantoshthakare/superstore-sales-analysis-business-insights
 
 ---
