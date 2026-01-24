@@ -17,10 +17,15 @@ I help businesses organize data, create clear MIS reports, and build basic Power
 
 ## 📂 Projects
 
-### 1️⃣ Sales MIS Dashboard (Excel)
-- Monthly sales analysis using Pivot Tables
-- Automated summary & charts  
-📎 File: Upload Excel file here
+
+### 1️⃣ Excel Sales Dashboard (GitHub)
+
+- Developed an interactive Excel dashboard to analyze monthly and yearly sales.
+- Used Pivot Tables, KPIs, slicers, and charts for dynamic insights.
+- Highlights total sales, average performance, and best month.
+
+👉 GitHub: https://github.com/thakarenilesh466-hash/excel-sales-dashboard
+![Dashboard Preview](https://raw.githubusercontent.com/thakarenilesh466-hash/excel-sales-dashboard/main/dashboard-preview.png)
 
 ---
 
