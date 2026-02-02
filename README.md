@@ -38,6 +38,35 @@ and build Excel & basic Power BI dashboards.
 
 ---
 
+### 3️⃣ AI-based Predictive Maintenance System  
+*Capstone Project | Data Analytics & Machine Learning*
+
+**Problem**  
+Unplanned equipment failures result in production downtime and increased maintenance costs in manufacturing environments.
+
+**My Role**
+- Analyzed time-series sensor data (vibration, temperature, acoustic – academic/simulated)
+- Performed data cleaning and preprocessing for analytics
+- Applied anomaly detection concepts to identify abnormal machine behavior
+- Worked on Remaining Useful Life (RUL) prediction logic (academic level)
+- Designed dashboards for machine health monitoring and alerts
+
+**Tools & Technologies**
+`Python, Pandas, Scikit-learn, TensorFlow (Basics), SQL concepts, InfluxDB, Grafana`
+
+**Key Analytics Concepts**
+- Time-series data analysis  
+- Anomaly detection (Isolation Forest / Autoencoders – conceptual)  
+- Predictive analytics for maintenance planning  
+- KPI-driven dashboards and reporting  
+
+**Outcome**
+- Demonstrated a shift from reactive to predictive maintenance (theoretical model)
+- Supported data-driven maintenance decision-making
+- Reduced risk of unplanned downtime through early insights  
+
+---
+
 ## 📫 Contact
 📧 Email: thakarenilesh466@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/nilesh-thakare-4447ba361
