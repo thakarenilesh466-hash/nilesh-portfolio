@@ -29,20 +29,7 @@ and build Excel & basic Power BI dashboards.
 
 ---
 
-### 2️⃣ Attendance & Salary Tracker (Excel)
-- Automated attendance and salary calculation  
-- Used IF, COUNTIF, summary tables  
-👉 GitHub: (add link)
-
----
-
-### 3️⃣ Sales Dashboard (Power BI)
-- Interactive dashboard with KPIs: Revenue, Region, Product  
-👉 Screenshot / Repo link (add)
-
----
-
-### 4️⃣ Superstore Sales Analysis | SQL
+### 2️⃣ Superstore Sales Analysis | SQL
 - Business-focused SQL analysis on sales & profit  
 - Identified loss-making categories and regional trends  
 
