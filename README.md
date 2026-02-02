@@ -3,38 +3,46 @@
 🎓 Computer Engineering Student  
 📊 Aspiring Data Analyst | MIS Executive  
 
-I help businesses organize data, create clear MIS reports,
-and build Excel & basic Power BI dashboards.
+I am a data-focused engineering graduate with hands-on experience in
+Excel dashboards, SQL-based business analysis, and basic Power BI reporting.
 
-💼 Available for freelance work in Excel dashboards and MIS reporting.
+I am actively seeking **entry-level Data Analyst or MIS Executive roles**
+where I can support business decision-making through data analysis and reporting.
 
 ---
 
 ## 🔧 Skills
-- Excel (VLOOKUP, XLOOKUP, Pivot Tables, Dashboards)
-- Data Cleaning & Reporting
-- Power BI (Basic Dashboards)
-- SQL (Business Analysis – JOINs, Aggregations)
+- **Excel** (VLOOKUP, XLOOKUP, Pivot Tables, Dashboards)
+- **Data Cleaning & MIS Reporting**
+- **Power BI** (Basic Dashboards & Visuals)
+- **SQL** (JOINs, Aggregations, Business Analysis)
+- **Time-Series Data Analysis** (Academic)
+- **Predictive Analytics** (Academic Project)
 
 ---
 
 ## 📂 Projects
 
 ### 1️⃣ Excel Sales Dashboard
-- Interactive Excel dashboard for monthly & yearly sales analysis  
-- Used Pivot Tables, KPIs, slicers, and charts  
+- Developed an interactive Excel dashboard for monthly & yearly sales analysis  
+- Designed KPIs, slicers, and charts for management reporting  
 
-👉 GitHub: https://github.com/thakarenilesh466-hash/excel-sales-dashboard  
+👉 GitHub:  
+https://github.com/thakarenilesh466-hash/excel-sales-dashboard  
+
 ![Dashboard Preview](https://raw.githubusercontent.com/thakarenilesh466-hash/excel-sales-dashboard/main/dashboard-preview.png)
 
 ---
 
 ### 2️⃣ Superstore Sales Analysis | SQL
-- Business-focused SQL analysis on sales & profit  
-- Identified loss-making categories and regional trends  
+- Performed business-focused SQL analysis on sales and profit data  
+- Identified loss-making categories and regional performance trends  
 
-🔗 GitHub: https://github.com/thakarenilesh466-hash/superstore-sales-analysis-sql  
-🔗 Kaggle: https://www.kaggle.com/code/nileshsantoshthakare/superstore-sales-analysis-business-insights
+🔗 GitHub:  
+https://github.com/thakarenilesh466-hash/superstore-sales-analysis-sql  
+
+🔗 Kaggle:  
+https://www.kaggle.com/code/nileshsantoshthakare/superstore-sales-analysis-business-insights
 
 ---
 
@@ -65,8 +73,12 @@ Unplanned equipment failures result in production downtime and increased mainten
 - Supported data-driven maintenance decision-making
 - Reduced risk of unplanned downtime through early insights  
 
+🔎 **Detailed Case Study (HR-Friendly Repository):**  
+https://github.com/thakarenilesh466-hash/predictive-maintenance-analytics
+
 ---
 
 ## 📫 Contact
-📧 Email: thakarenilesh466@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/nilesh-thakare-4447ba361
+📧 Email: **thakarenilesh466@gmail.com**  
+🔗 LinkedIn:  
+https://www.linkedin.com/in/nilesh-thakare-4447ba361
